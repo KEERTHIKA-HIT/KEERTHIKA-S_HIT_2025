@@ -62,4 +62,4 @@ n, m = map(int, input().split())
 
 
 result = gameWithCells(n, m)
-print(result
+print(result)
